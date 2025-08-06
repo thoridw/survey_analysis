@@ -15,7 +15,9 @@ This repository contains the Python notebooks used for the data analysis for 'Wh
     ├── 1_Analysis.ipynb                # Data analysis and outputs for paper
 ├── reports                             # outputs used in the article
     ├── figures                         # figures   
+├── requirements.txt                    # packages used to run the code
 └── README.md                           # This file
+
 ```
 
 
