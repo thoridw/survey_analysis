@@ -7,9 +7,9 @@ This repository contains the Python notebooks used for the data analysis for 'Wh
 ## Repository Structure
 
 ```
-├── data                                # folder containing the data used
-    ├── processed
-    ├── raw                  
+├── data_minibatch                      # folder containing the data used
+    ├── processed                       
+    ├── raw                             # minibatch of the data used            
 ├── notebooks                           # Stata do-file with econometric models
     ├── 0_Data_preparaption.ipynb       # Data preparation to generate processed from raw data files
     ├── 1_Analysis.ipynb                # Data analysis and outputs for paper
@@ -20,6 +20,8 @@ This repository contains the Python notebooks used for the data analysis for 'Wh
 
 ```
 
+## Note on the Data
+We used the SCALAR survey data for this analysis. In this repository, we provide a minibatch (subset) of the data. For more information on the full data, see [https://doi.org/10.17026/DANS-X9H-NJ3W].
 
 ## Citation
 
