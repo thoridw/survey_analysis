@@ -1,5 +1,7 @@
 # RA-survey-analysis
 
+Author: Thorid Wagenblast
+
 # Survey Analysis Repository
 
 This repository contains the Python notebooks used for the data analysis for 'Who talks about flood risks and climate change adaptation? Analysis of social interactions in three countries' by Wagenblast et al. 2025 [link to the paper once it get published]. The repository also contains the data underlying the figures.
@@ -29,6 +31,9 @@ If you use this analysis, please cite:
 ```
 [Add citation once paper is published]
 ```
+
+## Acknowledgements
+This work was supported by the Dutch Research Council NWO VIDI grant number 191015. The survey data collection was supported by the European Research Council (ERC) under the European Union’s Horizon 2020 Research and Innovation Program (grant agreement number: 758014). 
 
 ## Contact
 t.wagenblast@tudelft.nl, t.filatova@tudelft.nl
