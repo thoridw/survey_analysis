@@ -28,9 +28,8 @@ We used the SCALAR survey data for this analysis. In this repository, we provide
 ## Citation
 
 If you use this analysis, please cite:
-```
-[Add citation once paper is published]
-```
+
+Wagenblast, T., Ghorbani, A., Warnier, M., & Filatova, T. (2026). Who Talks About Flood Risks and Climate Change Adaptation? Analysis of Social Interactions in Three Countries. Risk Analysis. https://doi.org/10.1111/risa.70213
 
 ## Acknowledgements
 This work was supported by the Dutch Research Council NWO VIDI grant number 191015. The survey data collection was supported by the European Research Council (ERC) under the European Union’s Horizon 2020 Research and Innovation Program (grant agreement number: 758014). 
