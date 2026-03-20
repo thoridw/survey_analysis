@@ -4,7 +4,7 @@ Author: Thorid Wagenblast
 
 # Survey Analysis Repository
 
-This repository contains the Python notebooks used for the data analysis for 'Who talks about flood risks and climate change adaptation? Analysis of social interactions in three countries' by Wagenblast et al. 2025 [link to the paper once it get published]. The repository also contains the data underlying the figures.
+This repository contains the Python notebooks used for the data analysis for 'Who talks about flood risks and climate change adaptation? Analysis of social interactions in three countries' by Wagenblast et al. 2025 [https://doi.org/10.1111/risa.70213]. The repository also contains the data underlying the figures.
 
 ## Repository Structure
 
